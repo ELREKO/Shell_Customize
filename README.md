@@ -1,7 +1,3 @@
-Absolutely! Here's your translated guide in English – keeping the structure, tone, and formatting clear and friendly:
-
----
-
 # Shell_Customize  
 **From Boring to Productive: Customize Your Shell**
 
@@ -174,7 +170,3 @@ Find more ready-to-use layouts on the [DevOpsToolkit Starship Presets page](http
 ---
 
 ✅ **Conclusion:** Alias + Starship = more clarity, efficiency, and fun in the terminal 🚀
-
----
-
-Let me know if you want a downloadable version (like PDF or HTML) or want to localize it even more!
